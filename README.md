@@ -13,7 +13,7 @@ The variable of interest is:
 
 > **`maxtp` – Maximum Air Temperature (°C)**
 
-This analysis was selected based on the last digit of my student number (**x22242821** → '1').
+This analysis was selected based on the last digit of my student number.
 
 ### 🧪 Methods Used
 - **Simple Moving Average (SMA)**
